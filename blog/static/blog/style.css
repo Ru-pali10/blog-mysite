@@ -1,0 +1,58 @@
+.main-content .box-content{
+    font-size:1.5em;
+    word-wrap:break-word;
+}
+.date{
+    font-size:1rem;
+    color:gray;
+}
+#sidebar{
+    display:inline;
+    float:right;
+    background-color:grey;
+    color:white;
+    width:15vw;
+    height:30vh;
+}
+.main-content{
+    margin: 0px 0px 0px 4px;
+    padding:0px 0px 0px 4px;
+}
+#content{
+    display:inline-block;
+    word-wrap:break-word;
+    width:80vw;
+    margin: 0px 0px 0px 4px;
+    padding:0px 0px 0px 4px;
+}
+.box{
+    background-color:rgb(134, 196, 221);
+    border-radius:0em 1em 1em 0em ;
+}
+.main-content .comment-box{
+    width:50vw;
+    height:50vh;
+}
+.share{
+    background-color: lightblue;
+    text-align:center;
+}
+
+.sucess {
+    background-color: #aceaac;
+    color: rgb(71 171 71);
+    text-align: center;
+    border-radius: 1em 1em 1em 1em;
+    position: relative;
+
+}
+.comment{
+    background-color:lightgreen;
+    border-radius:1em 1em 1em 1em ;
+    text-align: center;
+    font-family:cursive;
+}
+.comment-box{
+    background-color:lightgray;
+    text-align: center;
+}
